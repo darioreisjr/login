@@ -1,0 +1,24 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#principal{
+    border: 2px solid red;
+   
+}
+
+.login {
+    border: 1px solid red;
+    margin: 20px;
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.formulario{
+    background: rgba(255, 3, 3, 0.575);
+    border: 2px solid green;
+    float: right;
+}
